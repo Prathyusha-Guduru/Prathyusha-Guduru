@@ -1,7 +1,7 @@
 ### Hello , I am Prathyusha. 👋
 
 - 🔭 I’m currently working on Computer vision 
-- 🌱 I’m currently learning Deep Learning using Keras
+- 🌱 I’m currently deep Learning with Keras 😅
 - 💬 Ask me about well maybe python
 - 📫 How to reach me: prathyushaguduru28@gmail.com
 - 😄 Pronouns: She/Her
