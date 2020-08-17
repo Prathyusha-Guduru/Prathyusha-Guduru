@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on Computer vision 
 - 🌱 I’m currently deep Learning with Keras 😅
-- 💬 Ask me about well maybe python
+- 💬 Ask me about well maybe python and basic data structures.
 - 📫 How to reach me: prathyushaguduru28@gmail.com
 - 😄 Pronouns: She/Her
 
