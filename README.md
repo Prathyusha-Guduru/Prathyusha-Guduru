@@ -5,6 +5,7 @@
 - 💬 Ask me about well maybe python and basic data structures.
 - 📫 How to reach me: prathyushaguduru28@gmail.com
 - 😄 Pronouns: She/Her
+- ⚡ Fun fact: Just google if you need one.
 
 
 <!--
