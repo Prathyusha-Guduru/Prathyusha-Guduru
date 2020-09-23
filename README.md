@@ -9,7 +9,7 @@
 
 ![Prathyusha GitHub statistic](https://github-readme-stats.vercel.app/api?username=Prathyusha-Guduru&show_icons=true&count_private=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Prathyusha-Guduru&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Prathyusha-Guduru&layout=compact)
 
 
 
