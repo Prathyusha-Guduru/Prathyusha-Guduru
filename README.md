@@ -20,6 +20,7 @@
 - 🔭 I’m currently working on Computer vision 
 - 🌱 I’m currently learning Deep Learning using Keras
 - 💬 Ask me about well maybe python
+- 📶 I’m looking for help with internet connection 
 - 📫 How to reach me: prathyushaguduru28@gmail.com
 - 😄 Pronouns: She/Her
 - ⚡ A Better Fun fact : I can code in HTML,CSS an
