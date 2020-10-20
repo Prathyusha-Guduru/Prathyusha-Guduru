@@ -1,7 +1,7 @@
 ### Hello , I am Prathyusha. 👋
 
-- 🔭 I’m currently working on Computer vision 
-- 🌱 I’m currently 'deep Learning' with Keras 😅
+- 🌱 I’m currently 'Deep Learning' about Computer vison 😅.
+- 📈 I'm extremely interested in Data Science.
 - 📶 I’m looking for help with my internet connection !
 - 💬 Ask me about well maybe python and basic data structures.
 - 📫 How to reach me: prathyushaguduru28@gmail.com
