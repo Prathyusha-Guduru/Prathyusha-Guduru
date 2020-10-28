@@ -14,6 +14,8 @@
 
 Connect with me on :
 
+<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
+
 <div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="dark" data-vanity="prathyusha-guduru-a48a711a4"><a class="LI-simple-link" href='https://in.linkedin.com/in/prathyusha-guduru-a48a711a4?trk=profile-badge'>Prathyusha Guduru</a></div>
 
 
