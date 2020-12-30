@@ -15,16 +15,12 @@
 - 📫 How to reach me: prathyushaguduru28@gmail.com
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: Just google if you need one.
-<<<<<<< HEAD
+
 <br>
 <br>
-=======
+
 </div>
 
-
-
-<img src = "side-image.png" align = "right" width = "270" style="margin: 0 0 0 20px;position:absolute;top:0px">
->>>>>>> 30528104704f277b2d77ecb738503fb876f2af3e
 
 
 ![Prathyusha's GitHub statistic](https://github-readme-stats.vercel.app/api?username=Prathyusha-Guduru&show_icons=true&count_private=true)
