@@ -34,8 +34,9 @@
 Connect with me :
 
 
-<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="dark" data-vanity="prathyusha-guduru-a48a711a4"><a class="LI-simple-link" href='https://in.linkedin.com/in/prathyusha-guduru-a48a711a4?trk=profile-badge'>Prathyusha Guduru</a></div>
+<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="dark" data-vanity="prathyusha-guduru-a48a711a4"><a class="LI-simple-link" href='https://in.linkedin.com/in/prathyusha-guduru-a48a711a4?trk=profile-badge'>Linkedln</a></div>
 
+<p><a href = "https://twitter.com/prathyusha2002">Twitter<p>
 </div>
 
 
