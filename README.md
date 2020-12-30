@@ -1,7 +1,7 @@
 <div align="left">
 <h2>Hello , I am Prathyusha. 👋</h2>
 <br>
-<p align="center">
+<p align="left">
   <img src="side-image.png" width = "300" />
 </p>
 
@@ -22,14 +22,14 @@
 </div>
 
 
-<div align="center">
+<div align="left">
 
 ![Prathyusha's GitHub statistic](https://github-readme-stats.vercel.app/api?username=Prathyusha-Guduru&show_icons=true&count_private=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Prathyusha-Guduru&layout=compact)
 </div>
 
-<div align="center">
+<div align="left">
 
 Connect with me :
 
