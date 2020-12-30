@@ -12,7 +12,7 @@
 
 
 
-<img src = "side-image.png" align = "right" width = "270" style="margin: 0 0 0 20px">
+<img src = "side-image.png" align = "right" width = "270" style="margin: 0 0 0 20px;position:absolute;top:0px">
 
 
 ![Prathyusha's GitHub statistic](https://github-readme-stats.vercel.app/api?username=Prathyusha-Guduru&show_icons=true&count_private=true)
