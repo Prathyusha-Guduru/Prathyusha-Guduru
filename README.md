@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently focussing on web development 😅.
 - 📈 I'm extremely interested in Data Science.
-- 📶 I’m looking for help with deployind web apps !
+- 📶 I’m looking for help with deploying flask web apps !
 - 💬 Ask me about well maybe python and data structures.
 - 📫 How to reach me: prathyushaguduru28@gmail.com
 - 😄 Pronouns: She/Her
