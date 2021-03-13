@@ -21,6 +21,9 @@
 
 </div>
 
+  while(corona_virus):
+          sleep_at_home()
+
 
 <div align="left">
 
