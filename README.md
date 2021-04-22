@@ -8,7 +8,7 @@
 <br>
 
 
-- 🌱 I’m currently focussing on web development 😅.
+- 🌱 I’m currently focussing on Django 😅.
 - 📈 I'm extremely interested in Data Science.
 - 📶 I’m looking for help with deploying flask web apps !
 - 💬 Ask me about well maybe python and data structures.
