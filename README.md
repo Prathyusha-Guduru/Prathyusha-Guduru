@@ -42,6 +42,6 @@ Connect with me :
 <p><a href = "https://twitter.com/prathyusha2002">Twitter<p>
 </div>
   
- <p><a href = "https://docs.google.com/document/d/1FAapZtddGsBrM894ezE8uOGrjC31s-M7WJ-oBWXYWLg/edit?usp=sharing"><strong>Resume</strong><p>
+ <p><a href = "https://drive.google.com/file/d/1tzCtS7bELCxG6G5Ykm2Yj5ply1rjwXh-/view?usp=sharing"><strong>Resume</strong><p>
 
 </div>
