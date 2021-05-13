@@ -21,9 +21,6 @@
 
 </div>
 
-  while(corona_virus):
-          sleep_at_home()
-
 
 <div align="left">
 
@@ -42,6 +39,6 @@ Connect with me :
 <p><a href = "https://twitter.com/prathyusha2002">Twitter<p>
 </div>
   
- <p><a href = "https://drive.google.com/file/d/1tzCtS7bELCxG6G5Ykm2Yj5ply1rjwXh-/view?usp=sharing"><strong>Resume</strong><p>
+ <p><a href = "https://drive.google.com/file/d/1iaRS4R0bO4PoB5rzRJApv8LkY7EjT3BT/view?usp=sharing"><strong>Resume</strong><p>
 
 </div>
