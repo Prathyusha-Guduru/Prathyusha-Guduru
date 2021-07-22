@@ -8,10 +8,10 @@
 <br>
 
 
-- 🌱 I’m currently focussing on Django 😅.
-- 📈 I'm extremely interested in Data Science.
-- 📶 I’m looking for help with deploying flask web apps !
-- 💬 Ask me about well maybe python and data structures.
+- 🌱 I’m currently focussing on React😅.
+- 📈 I'm extremely interested in data science.
+- 📶 I’m looking for help with my internet connection.
+- 💬 Ask me about python and data structures.
 - 📫 How to reach me: prathyushaguduru28@gmail.com
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: Just google if you need one.
