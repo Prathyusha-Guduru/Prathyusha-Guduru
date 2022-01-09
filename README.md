@@ -8,7 +8,7 @@
 <br>
 
 
-- 🌱 I’m currently focussing on React😅.
+- 🌱 I’m currently focussing on learning backend technologies😅.
 - 📈 I'm extremely interested in data science.
 - 📶 I’m looking for help with my internet connection.
 - 💬 Ask me about python and data structures.
