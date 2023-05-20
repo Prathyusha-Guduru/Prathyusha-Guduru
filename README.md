@@ -8,7 +8,7 @@
 <br>
 
 
-- 🌱 I’m currently focussing on pursuing front-end javascript frameworks like Next.js.
+- 🌱 I’m currently focussing on imporving code quailty and shipping production level projects
 - 📈 I'm extremely interested in UI/UX.
 - 📶 I’m looking for help with centering a div.
 - 💬 Ask me about python, UI design principles and javascript.
