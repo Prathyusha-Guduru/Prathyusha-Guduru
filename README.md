@@ -13,7 +13,7 @@
 
 <!-- <img align="right" alt="WEIRDO GIF" src="https://github-production-user-asset-6210df.s3.amazonaws.com/59722558/239736232-16df3ed4-541b-478c-a157-2f92eadc7a78.gif" width="250" /> -->
 
-<img align="right" alt="GREEN BLOB GIF" src="https://github.com/Prathyusha-Guduru/Prathyusha-Guduru/assets/59722558/b680a5a6-3915-48b3-b1cd-05e0c9c71a92" width="400" />
+<img align="right" alt="GREEN BLOB GIF" src="https://github.com/Prathyusha-Guduru/Prathyusha-Guduru/assets/59722558/b680a5a6-3915-48b3-b1cd-05e0c9c71a92" width="350" />
 <!-- ![dc0e47069627c894e1ca60211b151309](https://github.com/Prathyusha-Guduru/Prathyusha-Guduru/assets/59722558/eeda6eec-2b1f-41dd-a9d3-65c7f948be85)
  -->
 <!-- <img align="right" alt="CAT GIF" src="https://github.com/Prathyusha-Guduru/Prathyusha-Guduru/assets/59722558/08489465-0045-4a3a-8e78-8134df7d5823" width="250" /> -->
