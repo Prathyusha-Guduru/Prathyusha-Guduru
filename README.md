@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prathyusha</h1>
-<h3 align="center">Full stack enginner and designer </h3>
+<h3 align="center">Full stack engineer and designer </h3>
 
 <p align="center">
   <img src="https://github.com/Prathyusha-Guduru/Prathyusha-Guduru/assets/59722558/7e2638dd-b20a-45a7-886d-899f1c69c426" alt="animept" style="width: 100%;">
