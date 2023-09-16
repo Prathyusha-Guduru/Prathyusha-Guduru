@@ -82,9 +82,9 @@ Hey there! I'm a final year computer science undergraduate student with a keen i
 
 <!-- <p align="right"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prathyusha-guduru&title=Stars" alt="prathyusha-guduru" /></a> </p>
  -->
-<p align="center">
+<!--  <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=prathyusha-guduru&show_icons=true&locale=en&layout=compact" alt="prathyusha-guduru" />
-</p>
+</p> -->
 
 <!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=prathyusha-guduru&show_icons=true&locale=en" alt="prathyusha-guduru" />
