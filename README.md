@@ -31,7 +31,7 @@
 
 
 <p>
-Hey there! I'm a final year computer science undergraduate student with a keen interest in human-computer interaction. I've had the opportunity to work on 5 internships and collaborate with 10 freelance clients, where I honed my skills in graphic design, UX design, and front-end web development using technologies like React, Next.js, and TypeScript. On the backend side, I have experience with FastAPI, Flask, Docker, and databases like PostgreSQL and SQLite. I'm also well-versed in data structures, particularly trees and binary trees. Besides my tech side, I'm always up for a chat about dinosaurs and coffee. Let's build seamless interfaces together! ☕️🦕
+Hey there! I'm a final year computer science undergraduate student with a keen interest in human-computer interaction. I've had the opportunity to work on multiple internships and collaborate with international freelance clients, where I honed my skills in graphic design, UX design, and front-end web development using technologies like React, Next.js, and TypeScript. On the backend side, I have experience with FastAPI, Flask, Docker, and databases like PostgreSQL and SQLite. I'm also well-versed in data structures, particularly trees and binary trees. Besides my tech side, I'm always up for a chat about dinosaurs and coffee. Let's build seamless interfaces together! ☕️🦕
 </p>
 
   
