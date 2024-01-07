@@ -72,11 +72,14 @@ Hey there! I'm a final year computer science undergraduate student with a keen i
 <p align="center"> <a href="https://twitter.com/prathyusha2002" target="blank"><img src="https://img.shields.io/twitter/follow/prathyusha2002?logo=twitter&style=for-the-badge" alt="prathyusha2002" /></a> </p> -->
 <!-- 
 <h3 align="center">Connect with me:</h3> -->
-
+<!--
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=prathyusha-guduru&" alt="prathyusha-guduru" />
-</p> 
+</p> -->
 
+ <p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prathyusha-guduru&" alt="prathyusha-guduru" />
+</p> 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=prathyusha-guduru&label=Profile%20views&color=0e75b6&style=flat" alt="prathyusha-guduru" /> </p>
 
