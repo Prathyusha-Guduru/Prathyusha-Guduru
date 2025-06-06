@@ -31,7 +31,7 @@
 
 
 <p>
-Hey there! I'm a final year computer science undergraduate student with a keen interest in human-computer interaction. I've had the opportunity to work on multiple internships and collaborate with international freelance clients, where I honed my skills in graphic design, UX design, and front-end web development using technologies like React, Next.js, and TypeScript. On the backend side, I have experience with FastAPI, Flask, Docker, and databases like PostgreSQL and SQLite. I'm also well-versed in data structures, particularly trees and binary trees. Besides my tech side, I'm always up for a chat about dinosaurs and coffee. Let's build seamless interfaces together! ☕️🦕
+Hey there! I'm a first-year master's student in Data Science with a focus on AI in health and Reinforcement learning. I’ve previously worked as a full-stack developer and collaborated with international freelance clients, building intuitive interfaces and thoughtful user experiences. My toolkit includes React, Next.js, and TypeScript on the frontend, and FastAPI, Flask, Docker, and PostgreSQL on the backend. I’m also comfortable working with data—whether it’s designing structures like trees and graphs or applying ML techniques to real-world problems. Outside of tech, I’m always up for a chat about dinosaurs and coffee. Let’s create meaningful, human-centered tech together! ☕️🦕
 </p>
 
   
