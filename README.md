@@ -1,5 +1,5 @@
 <h1 align="center">Prathyusha Guduru</h1>
-<h3 align="center">Full stack engineer and designer </h3>
+<h3 align="center">Data Scientist & Full stack engineer </h3>
 
 
 
