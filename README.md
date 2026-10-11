@@ -1,5 +1,5 @@
 <h1 align="center">Prathyusha Guduru</h1>
-<h3 align="center">Data Scientist & Full stack engineer </h3>
+<h3 align="center"> PhD student at UT Austin </h3>
 
 
 
@@ -31,7 +31,7 @@
 
 
 <p>
-Hey there! I'm a first-year master's student in Data Science with a focus on AI in health and Reinforcement learning. I’ve previously worked as a full-stack developer and collaborated with international freelance clients, building intuitive interfaces and thoughtful user experiences. My toolkit includes React, Next.js, and TypeScript on the frontend, and FastAPI, Flask, Docker, and PostgreSQL on the backend. I’m also comfortable working with data—whether it’s designing structures like trees and graphs or applying ML techniques to real-world problems. Outside of tech, I’m always up for a chat about dinosaurs and coffee. Let’s create meaningful, human-centered tech together! ☕️🦕
+Hi! I am interesting in value learning problems in RL and applying value models to extract user behaviours in different domains such as autonomous driving and robo-advising. I also enjoy dancing, climbing and overpaying for lattes. 
 </p>
 
   
